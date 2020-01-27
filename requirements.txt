@@ -1,0 +1,6 @@
+hashlib
+argparse
+face_recognition
+shutil
+imquality
+PIL
