@@ -1,0 +1,6 @@
+[submodule "Blog/techblog/themes/paper"]
+	path = Blog/techblog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "Blog/techblog/vuktales/themes/paper"]
+	path = Blog/techblog/vuktales/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
