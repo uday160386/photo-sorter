@@ -1,6 +1,6 @@
-hashlib
 argparse
 face_recognition
-shutil
-imquality
-PIL
+image-quality
+Pillow
+click
+hashlib

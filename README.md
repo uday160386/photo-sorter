@@ -20,7 +20,7 @@ ImageQualityIdentifier: This utility will help to know about the quality of a im
     python ImageQualityIdentifier.py --path <Give the path to folder which contains a images>
     
     
-PhotosByFacialRecognition: This utility will help to identify the similar photos from a group of photos. It internally                                    used face_recognization.
+PhotosByFacialRecognition: This utility will help to identify the similar photos from a group of photos. It internally used face_recognization.
       
       python PhotosByFacialRecognition.py --trainedPath <Give path to the folder with selected photos for training purpose>
                                           --sourcePath <Give path to the folder with photos which need to be identified>
